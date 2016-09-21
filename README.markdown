@@ -1,2 +1,2 @@
-This is lab bash: y: command not found
-
+This is lab 04
+It's about version control
